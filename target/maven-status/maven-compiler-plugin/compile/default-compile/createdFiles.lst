@@ -1,0 +1,10 @@
+com\usedetails\project\controller\UserController.class
+com\usedetails\project\filter\RequestLoggingFilter.class
+com\usedetails\project\service\UserService.class
+com\usedetails\project\dto\UserRequest.class
+com\usedetails\project\dto\UserResponse$UserResponseBuilder.class
+com\usedetails\project\metrics\MetricsService.class
+com\usedetails\project\entity\User.class
+com\usedetails\project\UsedetailsApplication.class
+com\usedetails\project\dto\UserResponse.class
+com\usedetails\project\repository\UserRepository.class
